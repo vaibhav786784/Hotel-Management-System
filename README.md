@@ -1,7 +1,8 @@
 # Hotel-Management-System
 
 Hotel-Management-System is developed using Tkinter(Python) for GUI, Mysql for Database connectivity, SMTP(Simple Mail Transfer Protocol) for mail transfer.
-The main objective of the Project is to manage the details of Booking, Hotel, Customers, Payments and Services. The main modules available in this project are check inn, check-out, customer-details and all-details. Help button in the menu bar contains the contact details has made use of SMTP to send regular updates and offers to its customers.
+Hotel Management System (HMS) provide a better place for the guest to stay and effectively satisfy their experience.
+The main objective of the Project is to manage the details of Booking, Hotel, Customers, Payments and Services.
 
 ## Getting started
 ### Options
